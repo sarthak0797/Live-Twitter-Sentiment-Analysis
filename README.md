@@ -27,4 +27,4 @@ Live streaming of tweets from twitter streamed by the tags given by the user
   While the streaming continues you can run graph.py to plot a graph of you data to know about the positivity and negativity of your tweets.
   You can stop the streaming whenever u want by pressing ctrl+c.
 # P.s - Make sure you clear the Twitter-out.txt file before every new Streaming otherwise your graph will just show previous data.
-#       And also make sure that you create a repository with name pickled_algos to store all your pickled data and classifier.
+#       And also make sure that you create a folder with name pickled_algos to store all your pickled data and classifier.
