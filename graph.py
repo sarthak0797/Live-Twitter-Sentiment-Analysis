@@ -26,7 +26,7 @@ def animate(i):
         if "pos" in l:
             y += 1
         elif "neg" in l:
-            y -= 1
+            y -= 2
 
         xar.append(x)
         yar.append(y)
