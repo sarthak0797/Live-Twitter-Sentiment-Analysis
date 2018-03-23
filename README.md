@@ -28,3 +28,5 @@ Live streaming of tweets from twitter streamed by the tags given by the user
   You can stop the streaming whenever u want by pressing ctrl+c.
 # P.s - Make sure you clear the Twitter-out.txt file before every new Streaming otherwise your graph will just show previous data.
 #       And also make sure that you create a folder with name pickled_algos to store all your pickled data and classifier.
+
+However the graph won't show u exact sentiments about something as people tend to tweet more when they are happy.So our graph would be more biased towards positive.
