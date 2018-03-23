@@ -85,10 +85,10 @@ class listener(StreamListener):
 
 tags = input('Enter the tag you want sentiment review of:')
 
-ckey="E5HAAoKokODb9ONCXnK4qxYcQ"
-csecret="WGzgJztKPl7e0bbdCTq8ngtU6XBsr5jmXzpi0MtuSUr6EUqthu"
-atoken="973954270566297600-CZLwyIcZwn2fWUgcUYc1bydaVrin6iZ"
-asecret="iFdARIg6k6syTqPA0ZLL524tyx1PZd6mxDPdEVn87bwtM"
+ckey="XXXXXXXXXXXXXXXXXXXXX"
+csecret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+atoken="XXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+asecret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 auth = OAuthHandler(ckey, csecret)
