@@ -26,7 +26,7 @@ Live streaming of tweets from twitter streamed by the tags given by the user
   After compiling the file Enter whatever u wanna do analysis of.When the Streaming starts your will directly get store in twitter-out.txt  file.
   While the streaming continues you can run graph.py to plot a graph of you data to know about the positivity and negativity of your tweets.
   You can stop the streaming whenever u want by pressing ctrl+c.
-# P.s - Make sure you clear the Twitter-out.txt file before every new Streaming otherwise your graph will just show previous data.
-#       And also make sure that you create a folder with name pickled_algos to store all your pickled data and classifier.
+### Important - Make sure you clear the Twitter-out.txt file before every new Streaming otherwise your graph will just show previous data.
+###       And also make sure that you create a folder with name pickled_algos to store all your pickled data and classifier.
 
 However the graph won't show u exact sentiments about something as people tend to tweet more when they are happy.So our graph would be more biased towards positive.
