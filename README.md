@@ -23,9 +23,9 @@ Live streaming of tweets from twitter streamed by the tags given by the user
 1) When running for the first time- Start by running Classifier_Trainer.py .You'll need to run this file only once as it will pickle your trained classifier and all the filtered data.This is done to reduce the the pre-processing time when performing actual sentiment analysis.
 
 2) After running Classifier_Trainer.py goto the main core file i:e main_Streamer.py streaming of data happens here.
-  After compiling the file Enter whatever u wanna do analysis of.When the Streaming starts your will directly get store in twitter-out.txt  file.
+  After compiling the file Enter whatever you wanna do analysis of.When the Streaming starts your tweets will directly get store in twitter-out.txt  file.
   While the streaming continues you can run graph.py to plot a graph of you data to know about the positivity and negativity of your tweets.
-  You can stop the streaming whenever u want by pressing ctrl+c.
+  You can stop the streaming whenever you want by pressing ctrl+c.
 ### Important - Make sure you clear the Twitter-out.txt file before every new Streaming otherwise your graph will just show previous data.
 ###       And also make sure that you create a folder with name pickled_algos to store all your pickled data and classifier.
 
